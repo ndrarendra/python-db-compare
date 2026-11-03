@@ -19,9 +19,10 @@ Ensure you have Python installed along with the required dependencies.
 ### Install Dependencies
 ```bash
 pip install flask pymysql pandas xlsxwriter python-docx
-python your_script.py
-http://localhost:5000/
+python db_compare_v12_new.py
 ```
+
+Then open http://localhost:5000/.
 
 
 ## Usage
